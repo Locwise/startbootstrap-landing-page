@@ -1,7 +1,7 @@
 /*!
- * Start Bootstrap - Landing Page v5.0.0 (https://startbootstrap.com/template-overviews/landing-page)
+ * Start Bootstrap - Locwise Website v5.0.0 (https://startbootstrap.com/template-overviews/landing-page)
  * Copyright 2013-2018 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-landing-page/blob/master/LICENSE)
+ * Licensed under MIT (https://github.com/BlackrockDigital/locwise-website/blob/master/LICENSE)
  */
 
 body {
@@ -14,7 +14,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'heebo', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 700;
 }
 
